@@ -45,7 +45,7 @@ setup(
         'coloredlogs>=10.0',
         'fastcluster==1.1.25',
         'numpy>=1.16',
-        'sklearn',
+        'scikit-learn',
         'scipy>=1.2',
         'matplotlib>=3.0.2',
         'plumbum>=1.6.7',
